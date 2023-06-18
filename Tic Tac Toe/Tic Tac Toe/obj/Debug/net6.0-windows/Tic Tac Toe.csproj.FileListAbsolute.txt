@@ -1,0 +1,18 @@
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.exe
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.deps.json
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.runtimeconfig.json
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.dll
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.pdb
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.AssemblyReference.cache
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Form1.resources
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.AssemblyInfo.cs
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.dll
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\refint\Tic Tac Toe.dll
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.pdb
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.genruntimeconfig.cache
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\ref\Tic Tac Toe.dll
+F:\AUST\3.2\Sowpnil Roy\Lab\SD Lab\Tic Tac Toe\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Properties.Resources.resources
